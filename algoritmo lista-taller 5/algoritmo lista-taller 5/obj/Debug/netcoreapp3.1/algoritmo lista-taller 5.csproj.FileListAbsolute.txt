@@ -1,0 +1,13 @@
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\bin\Debug\netcoreapp3.1\algoritmo lista-taller 5.exe
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\bin\Debug\netcoreapp3.1\algoritmo lista-taller 5.deps.json
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\bin\Debug\netcoreapp3.1\algoritmo lista-taller 5.runtimeconfig.json
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\bin\Debug\netcoreapp3.1\algoritmo lista-taller 5.runtimeconfig.dev.json
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\bin\Debug\netcoreapp3.1\algoritmo lista-taller 5.dll
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\bin\Debug\netcoreapp3.1\algoritmo lista-taller 5.pdb
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.csproj.AssemblyReference.cache
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.AssemblyInfoInputs.cache
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.AssemblyInfo.cs
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.csproj.CoreCompileInputs.cache
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.dll
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.pdb
+D:\sena\3 semestre\carlos manuel nuñez\algoritmo lista-taller 5\algoritmo lista-taller 5\obj\Debug\netcoreapp3.1\algoritmo lista-taller 5.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\bin\Debug\conseguir_novia.exe.config
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\bin\Debug\conseguir_novia.exe
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\bin\Debug\conseguir_novia.pdb
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.Form1.resources
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.Properties.Resources.resources
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.exe
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.pdb
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.Form2.resources
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.Form3.resources
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.Form4.resources
+C:\Users\SENA\source\repos\conseguir_novia\conseguir_novia\obj\Debug\conseguir_novia.Form5.resources
